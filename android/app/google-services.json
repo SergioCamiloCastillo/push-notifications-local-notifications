@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "390620697490",
+    "project_id": "flutter-project-70261",
+    "storage_bucket": "flutter-project-70261.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390620697490:android:a88663945d80a7a46fe74b",
+        "android_client_info": {
+          "package_name": "com.sergiocastillo.push_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD26a28FN9iS-JpMKiIFD32hnwzMVLuswA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
